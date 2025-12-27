@@ -288,7 +288,7 @@ fun MainScreen(
                     )
                     Spacer(modifier = Modifier.height(8.dp))
                     Text(
-                        text = "• 需要Root权限\n• 需要悬浮窗权限\n• 请合理合法使用",
+                        text = "• 需要Root权限\n• 需要悬浮窗权限\n• 请合理合法使用\n• 不要用于考试作弊！！！！\n• 造成任何不良后果自己承担",
                         color = MaterialTheme.colorScheme.onErrorContainer
                     )
                 }
